@@ -1,0 +1,7 @@
+no safeguards in place as a warning of what removing the license is going to do to the user's account.
+
+Microsoft doesn't tell you what any license does.
+
+End user isn't given any price guides for licenses in account section
+
+Intentional obfuscation of license pricing if using cloud partner/license provider so they can mark up license price

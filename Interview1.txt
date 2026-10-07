@@ -1,0 +1,10 @@
+Number 1 complaint, too many admin centers, no indication by which one you need.
+
+Devices doesn't say anything about another portal, just need to know where to go.
+
+Can reset password from admin center and entra, but cant manage devices from both.
+
+Entra has a per-user mfa, exists. no description between enabled/enforced
+Per user mfa site doesn't show existing devices
+
+"Admin center" can't actually manage everything on its own.

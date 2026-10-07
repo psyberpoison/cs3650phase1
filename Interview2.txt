@@ -1,0 +1,11 @@
+Lack of important licensing information, and how to get data from onedrive without deleting the onedrive.
+
+Cant assign onedrive permissions from admin center
+
+no real onedrive admin center
+
+have to take over the onedrive and give access
+
+may need to get license to download contents and provide to other users
+
+lack of provided license removal information (data retention)
