@@ -1,0 +1,20 @@
+,Reset a user's password,View audit logs,Check if Microsoft has an outage,View billing and invoices,Set password requirements for the company,Create a new user,Assign a license to a user,"Manage MFA methods (phone, authenticator)",See what a license includes,Buy more licenses,Delete a user,Block a user from signing in,Convert a mailbox to a shared mailbox,Give someone access to a mailbox,Forward a user's email,Remove a license from a user,Manage distro lists,Manage company devices (Intune),Give someone OneDrive access
+Reset a user's password,1,0.6,0.6,0.6,0.6,0.2,0.2,0,0,0,0.4,0.4,0,0.4,0,0.2,0,0,0.2
+View audit logs,0.6,1,0.8,0.8,1,0,0,0.2,0.2,0.2,0,0,0.2,0.2,0,0,0.2,0.2,0
+Check if Microsoft has an outage,0.6,0.8,1,0.6,0.8,0,0,0,0,0,0,0,0,0.2,0,0,0,0,0
+View billing and invoices,0.6,0.8,0.6,1,0.8,0,0,0.2,0.4,0.4,0,0,0.2,0.2,0,0.2,0.2,0.2,0
+Set password requirements for the company,0.6,1,0.8,0.8,1,0,0,0.2,0.2,0.2,0,0,0.2,0.2,0,0,0.2,0.2,0
+Create a new user,0.2,0,0,0,0,1,1,0.4,0.4,0.6,0.2,0.2,0,0.6,0.4,0,0.4,0.2,0.8
+Assign a license to a user,0.2,0,0,0,0,1,1,0.4,0.4,0.6,0.2,0.2,0,0.6,0.4,0,0.4,0.2,0.8
+"Manage MFA methods (phone, authenticator)",0,0.2,0,0.2,0.2,0.4,0.4,1,0.8,0.6,0.2,0.2,0.4,0,0,0.2,0.4,0.8,0.2
+See what a license includes,0,0.2,0,0.4,0.2,0.4,0.4,0.8,1,0.8,0.2,0.2,0.4,0,0,0.4,0.4,0.6,0.2
+Buy more licenses,0,0.2,0,0.4,0.2,0.6,0.6,0.6,0.8,1,0,0,0.2,0.2,0.2,0.2,0.6,0.4,0.4
+Delete a user,0.4,0,0,0,0,0.2,0.2,0.2,0.2,0,1,1,0.6,0.4,0.4,0.8,0.2,0.4,0.4
+Block a user from signing in,0.4,0,0,0,0,0.2,0.2,0.2,0.2,0,1,1,0.6,0.4,0.4,0.8,0.2,0.4,0.4
+Convert a mailbox to a shared mailbox,0,0.2,0,0.2,0.2,0,0,0.4,0.4,0.2,0.6,0.6,1,0.2,0.6,0.6,0.6,0.6,0.2
+Give someone access to a mailbox,0.4,0.2,0.2,0.2,0.2,0.6,0.6,0,0,0.2,0.4,0.4,0.2,1,0.6,0.2,0.4,0.2,0.8
+Forward a user's email,0,0,0,0,0,0.4,0.4,0,0,0.2,0.4,0.4,0.6,0.6,1,0.4,0.6,0.2,0.6
+Remove a license from a user,0.2,0,0,0.2,0,0,0,0.2,0.4,0.2,0.8,0.8,0.6,0.2,0.4,1,0.2,0.4,0.2
+Manage distro lists,0,0.2,0,0.2,0.2,0.4,0.4,0.4,0.4,0.6,0.2,0.2,0.6,0.4,0.6,0.2,1,0.6,0.6
+Manage company devices (Intune),0,0.2,0,0.2,0.2,0.2,0.2,0.8,0.6,0.4,0.4,0.4,0.6,0.2,0.2,0.4,0.6,1,0.4
+Give someone OneDrive access,0.2,0,0,0,0,0.8,0.8,0.2,0.2,0.4,0.4,0.4,0.2,0.8,0.6,0.2,0.6,0.4,1
